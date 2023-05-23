@@ -10,7 +10,8 @@ Clone the repository:
 
 Open the Git perspective in Eclipse by clicking on "Window" -> "Perspective" -> "Open Perspective" -> "Other" and selecting "Git."
 Click on the "Clone a Git repository" button in the Git perspective toolbar.
-In the "Clone Git Repository" dialog, enter the repository URL. You can find the repository URL on the GitHub project page. It usually starts with "https://" or "git://".
+In the "Clone Git Repository" dialog, enter the repository URL. Usr is "https://github.com/ankushautomationhub/NextBirthdayAPITest.git"
+
 Click "Next" and follow the prompts to configure the clone location, branch selection, etc. You can choose the default options or customize them as per your requirements.
 Click "Finish" to start the cloning process. Eclipse will download the project files from GitHub.
 Import the project into Eclipse:
